@@ -1,3 +1,5 @@
+# 📊 Entrevistador de Carreira em Tecnologia
+
 # "Olá! 👋 
 
 Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.
@@ -41,6 +43,7 @@ Excelente! Você tem interesse em dados, inteligência artificial, programação
 
 👉**Pergunta 7 (última):**  
 Você tem alguma experiência prévia (mesmo que não seja em tecnologia) que gostaria de aproveitar nessa nova jornada?
+
 **trabalho co sistema elétricos prediais**
 
 Perfeito! Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você...
@@ -111,7 +114,8 @@ Muito amplo, com oportunidades em empresas de todos os portes, mas varia conform
 ---
 
 👉 **Qual dessas carreiras te chamou mais atenção?**
-Cientista de Dados
+
+**Cientista de Dados**
 
 ---
 
